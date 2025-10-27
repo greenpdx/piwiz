@@ -218,11 +218,11 @@
                   <object class="GtkLabel" id="p0label">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
-                    <property name="label" translatable="yes">Welcome to the Raspberry Pi Desktop!
+                    <property name="label" translatable="yes">Bienvanida a la Computado Rita!
 
-Before you start using it, there are a few things to set up.
+Antes de comenzar a usarlo, hay algunas cosas que debes configurar.
 
-Press 'Next' to get started. </property>
+Presiona "Siguiente" para comenzar. </property>
                     <property name="wrap">True</property>
                     <property name="max-width-chars">50</property>
                     <property name="xalign">0</property>
@@ -237,7 +237,7 @@ Press 'Next' to get started. </property>
                   <object class="GtkLabel" id="p0prompt">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
-                    <property name="label" translatable="yes">If you are using a Bluetooth keyboard or mouse, put them into pairing mode and wait for them to connect.</property>
+                    <property name="label" translatable="yes">Si está utilizando un teclado o un mouse Bluetooth, póngalos en modo de emparejamiento y espere a que se conecten.</property>
                     <property name="wrap">True</property>
                     <property name="max-width-chars">50</property>
                     <property name="xalign">0</property>
