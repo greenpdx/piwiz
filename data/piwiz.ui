@@ -178,7 +178,7 @@
   <object class="GtkWindow" id="wizard_dlg">
     <property name="can-focus">False</property>
     <property name="border-width">5</property>
-    <property name="title" translatable="yes">Welcome to Raspberry Pi</property>
+    <property name="title" translatable="yes">Bienvanida a la Computado Rita!</property>
     <property name="resizable">False</property>
     <property name="window-position">center-always</property>
     <property name="icon-name">rpi</property>
